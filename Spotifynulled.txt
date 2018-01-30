@@ -34,7 +34,6 @@
 0.0.0.0 lon6-accesspoint-a33.lon6.spotify.com
 0.0.0.0 media-match.com
 0.0.0.0 omaze.com
-0.0.0.0 open.spotify.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
