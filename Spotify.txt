@@ -10,7 +10,7 @@
 127.0.0.1 audio-sp-sto.spotify.com
 127.0.0.1 audio2.spotify.com
 127.0.0.1 b.scorecardresearch.com
-127.0.0.1 beta.spotify.map.fastly.net
+#127.0.0.1 beta.spotify.map.fastly.net
 127.0.0.1 bounceexchange.com
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 googleads4.g.doubleclick.net
@@ -24,7 +24,7 @@
 127.0.0.1 desktop.spotify.com
 127.0.0.1 doubleclick.net
 127.0.0.1 ds.serving-sys.com
-127.0.0.1 fastly.net
+#127.0.0.1 fastly.net
 127.0.0.1 gew1.ap.spotify.com
 127.0.0.1 googleadservices.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -45,7 +45,7 @@
 127.0.0.1 server-54-230-216-203.mrs50.r.cloudfront.net
 127.0.0.1 seen-on-screen.thewhizmarketing.com
 127.0.0.1 tpc.googlesyndication.com
-127.0.0.1 t.scdn.co
+#127.0.0.1 t.scdn.co
 127.0.0.1 u.scdn.co
 127.0.0.1 upgrade.scdn.co
 127.0.0.1 upgrade.spotify.com
