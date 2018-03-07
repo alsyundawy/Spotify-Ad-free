@@ -56,3 +56,6 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googletagservices.com
 127.0.0.0 www.omaze.com
+127.0.0.0 www.spotify-desktop.com
+127.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
+127.0.0.0 prod.spotify.map.fastlylb.net
