@@ -6,7 +6,6 @@
 127.0.0.1  ads.spotify.com
 127.0.0.1  adnxs.com
 127.0.0.1  adnxs.comadplexmedia.adk2x.com
-127.0.0.1  apresolve.spotify.com
 127.0.0.1  analytics.spotify.com
 127.0.0.1  audio-sp-sto.spotify.com
 127.0.0.1  audio2.spotify.com
@@ -42,7 +41,6 @@
 127.0.0.1  redirector.gvt1.com
 127.0.0.1  s0.2mdn.net
 127.0.0.1  securepubads.g.doubleclick.net
-127.0.0.1  spclient.wg.spotify.com
 127.0.0.1  server-54-230-216-203.mrs50.r.cloudfront.net
 127.0.0.1  seen-on-screen.thewhizmarketing.com
 127.0.0.1  tpc.googlesyndication.com
