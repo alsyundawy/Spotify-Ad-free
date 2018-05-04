@@ -62,3 +62,4 @@
 0.0.0.0  on3-weblb-wg2.lon3.spotify.com
 0.0.0.0  lon3-weblb-wg3.lon3.spotify.com
 0.0.0.0  sto3-weblb-wg4.sto3.spotify.com
+0.0.0.0  weblb-wg.dual-gslb.spotify.com
