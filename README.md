@@ -12,7 +12,15 @@ You can easily import the list into any Adblocker.
 
 
 
-### How to capture ads?
+### How to capture ads on Windows?
 
 * Flush your DNS cache `ipconfig /flushdns`, then run [DNSQuerySniffer](http://www.nirsoft.net/utils/dns_query_sniffer.html) and your Spotify Client
-* After an audio Ads appears save domains list via DNSQuerySniffer.
+* After an audio Ads appears save domains list via DNSQuerySniffer. 
+* In order to provide a useful Pull request or BNug report ensure you're use the latest Spotify version. 
+
+
+### How to capture ads on Android?
+
+* Install AdGuard, ensure HTTPS filtering is globally activated and enabled for the Spotify application. 
+* Enable DNS filtering.
+* Go to filter log and export the list. You can click on the domains and block them and export the list in order to provide a useful Pull Request.
