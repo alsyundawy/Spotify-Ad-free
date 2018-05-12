@@ -3,6 +3,7 @@ Random
 cache.spotify.com (192.168.178.255:57621,...)
 77.65.199.104.bc.googleusercontent.com
 151.101.36.246:443
+adjust.com
 
 Spotify Update
 =============================================
@@ -12,3 +13,7 @@ Spotify Update
 0.0.0.0 upgrade.scdn.co
 0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
+
+Player
+=============================================
+0.0.0.0 spclient.wg.spotify.com

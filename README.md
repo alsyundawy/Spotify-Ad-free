@@ -2,6 +2,7 @@ This filter list created 2015 is under MIT license by CHEF-KOCH and contains all
 
 Current Spotify Release: [Spotify 1.0.80.474](https://community.spotify.com/t5/Community-Blog/All-Spotify-Release-Notes/ba-p/551574)
 
+# Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList)!
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
@@ -9,6 +10,7 @@ Current Spotify Release: [Spotify 1.0.80.474](https://community.spotify.com/t5/C
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 You can easily import the list into any Adblocker.
+
 
 
 
