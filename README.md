@@ -1,6 +1,6 @@
 This filter was created 2015 and is under MIT license by CHEF-KOCH and contains all the advertising domains which are hard-coded within Spotify (free account). <br />
 
-Current Spotify Release: [Spotify 1.0.90.286](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/tag/1.6)
+Current Spotify Release: [Spotify 1.0.91.183](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/tag/1.6)
 
 # Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList)!
 
