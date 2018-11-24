@@ -26,3 +26,7 @@ You can easily import the list into any Adblocker.
 * Install AdGuard, ensure HTTPS filtering is globally activated and enabled for the Spotify application. 
 * Enable DNS filtering.
 * Go to filter log and export the list. You can click on the domains and block them and export the list in order to provide a useful Pull Request.
+
+### How to enable the Spotify Audio Routing function?
+
+* Using _--enable-audio-graph_ at the end of the Spotify shortcut target address will enable the Playback device selection box!
