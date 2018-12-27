@@ -27,6 +27,13 @@ You can easily import the list into any Adblocker.
 * Enable DNS filtering.
 * Go to filter log and export the list. You can click on the domains and block them and export the list in order to provide a useful Pull Request.
 
+
 ### How to enable the Spotify Audio Routing function?
 
 * Using _--enable-audio-graph_ at the end of the Spotify shortcut target address will enable the Playback device selection box!
+
+
+### Release & RePack information
+
+I do not officially maintain the project which means every work I still do is for the community only and for free, no one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal stuff here. Repacking the installer is not illegal, however modifing the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
+
