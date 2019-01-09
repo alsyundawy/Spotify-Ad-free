@@ -40,6 +40,6 @@ I do not officially maintain the project which means every work I still do is fo
 
 ### Other Resources
 
-* [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) A modularized Ad Blocker for Spotify on Android 
-
+* [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) A modularized Ad Blocker for Spotify on Android.  
+* [BlockTheSpot](https://github.com/master131/BlockTheSpot/) Spotify injection (for the Desktop version only) which blocks video, audio & banner
 
