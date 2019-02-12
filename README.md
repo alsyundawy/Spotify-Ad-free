@@ -20,7 +20,7 @@ You can easily import the list into any Adblocker.
 
 * Flush your DNS cache `ipconfig /flushdns`, then run [DNSQuerySniffer](http://www.nirsoft.net/utils/dns_query_sniffer.html) and your Spotify Client
 * After an audio Ads appears save domains list via DNSQuerySniffer. 
-* In order to provide a useful Pull request or BNug report ensure you're use the latest Spotify version. 
+* In order to provide a useful Pull request or Bug report ensure you're use the latest Spotify version. 
 
 
 ### How to capture ads on Android?
