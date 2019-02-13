@@ -55,3 +55,4 @@ I do not officially maintain the project which means every work I still do is fo
 * [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) A modularized Ad Blocker for Spotify on Android.  
 * [BlockTheSpot](https://github.com/master131/BlockTheSpot/) Spotify injection (for the Desktop version only) which blocks video, audio & banner
 * [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
+* [Proof that Spotify collects everything](https://twitter.com/steipete/status/1025024813889478656) + they [sell your private data](https://betanews.com/2016/07/22/spotify-sells-user-data-to-advertisers/)
