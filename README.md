@@ -50,9 +50,8 @@ This helps to getting tracked by cookie leftovers and reduces the chance to see 
 I do not officially maintain the project which means every work I still do is for the community only and for free, no one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal stuff here. Repacking the installer is not illegal, however modifing the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
 
 
-### Other Resources
+### Reference
 
 * [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) A modularized Ad Blocker for Spotify on Android.  
 * [BlockTheSpot](https://github.com/master131/BlockTheSpot/) Spotify injection (for the Desktop version only) which blocks video, audio & banner
 * [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
-
