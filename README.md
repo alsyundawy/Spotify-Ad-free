@@ -16,14 +16,14 @@ You can easily import the list into any Adblocker.
 
 ### Bypass ToS (?)
 
-* The current ToS (see link below) only affects America and Europe, Swiss is not affected. My advice is to setup a Proxy/VPN for Spotify which connects to Swiss in order to _bypass_ (needs confirmation) the ToS in case you're account get banned you can then win this case and the swiss server in general have less ads (needs confirmation).
+* The current ToS (see link below) only affects America and Europe, Swiss is not affected. My advice is to setup a Proxy/VPN for Spotify which connects to Swiss in order to _bypass_ (needs confirmation) the ToS in case you're account get banned you can then win this case and the swiss server in general have less ads.
 
 An additional advice is to set this:
 
 - Edit - Preferences (CTRL + P) - Privacy _Block all cookies..._ (enable it)
 - Edit - Preferences (CTRL + P) - Advertisement - Change advertising preferences (disable everything here on the Spotify website)
 
-This helps to getting tracked by cookie leftovers and reduces the chance to see banner ads (it does not remove them). 
+This helps to get rid of cookie leftover(s) tracker(s) and reduces the chance to see banner ads (it does not remove them!). 
 
 
 ### How to capture ads on Windows?
