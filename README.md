@@ -22,6 +22,7 @@ An additional advice is to set this:
 
 - Edit - Preferences (CTRL + P) - Privacy _Block all cookies..._ (enable it)
 - Edit - Preferences (CTRL + P) - Advertisement - Change advertising preferences (disable everything here on the Spotify website)
+- Manually delete the Spotify cache folder and mark it as _read-only_so that Spotify won't get access tp it, which prevents to store meta-data and ads in it. 
 
 This helps to get rid of cookie leftover(s) tracker(s) and reduces the chance to see banner ads (it does not remove them!). 
 
