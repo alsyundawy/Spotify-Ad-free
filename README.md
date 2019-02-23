@@ -2,7 +2,11 @@ This filter list was created 2015 and is under MIT license by CHEF-KOCH and cont
 
 The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). <br/>
 
-Current Spotify Release: [Spotify 1.1.237](https://download.scdn.co/SpotifyFullSetup.exe), see [here](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/tag/2.3) for mod infos.
+* Current Spotify Release: [Spotify 1.1.237](https://download.scdn.co/SpotifyFullSetup.exe), see [here](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/tag/2.3) for mod infos.
+* [Android Alpha Google Group](https://groups.google.com/forum/#!forum/spotify-android-alpha/join)
+* [Android Beta Google Group](https://groups.google.com/forum/#!forum/spotify-android-beta/join)
+* [Android App Testing page](https://play.google.com/apps/testing/com.spotify.music)
+* [Offical Play Store link](https://play.google.com/store/apps/details?id=com.spotify.music)
 
 # Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList)!
 
