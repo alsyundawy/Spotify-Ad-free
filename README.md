@@ -53,12 +53,15 @@ This helps to get rid of cookie leftover(s) tracker(s) and reduces the chance to
 
 ### Release & RePack information
 
-I do not officially maintain the project which means every work I still do is for the community only and for free, no one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal stuff here. Repacking the installer is not illegal, however modifing the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
+I do _not officially maintain the project_ which means every work I still do is for the community only and entirely for free. No one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal here. Repacking the installer is not illegal, however modifing the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
 
+Overall I provide:
+* I provide mirrors as they come (in case someone wants to manually up-/downgrade) I also provide Ad-Free mods for Desktops and the Android OS. 
+* The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explaine the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning)) which means the Win32 apps are uploaded 4-7 days later (depending how fast Spotify rolls them out). 
 
 ### Reference
 
 * [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) A modularized Ad Blocker for Spotify on Android.  
-* [BlockTheSpot](https://github.com/master131/BlockTheSpot/) Spotify injection (for the Desktop version only) which blocks video, audio & banner
+* [BlockTheSpot](https://github.com/master131/BlockTheSpot/) Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner
 * [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
 * [Proof that Spotify collects everything](https://twitter.com/steipete/status/1025024813889478656) + they [sell your private data](https://betanews.com/2016/07/22/spotify-sells-user-data-to-advertisers/)
