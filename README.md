@@ -3,13 +3,6 @@ This filter list was created 2015 and is under MIT license by CHEF-KOCH and cont
 The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). <br/>
 
 * Current Spotify Release: [Spotify 1.1.1.348.g9064793a](https://download.scdn.co/SpotifyFullSetup.exe), see [here](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/tag/2.7) for mod infos.
-* [Android Alpha Google Group](https://groups.google.com/forum/#!forum/spotify-android-alpha/join)
-* [Android Beta Google Group](https://groups.google.com/forum/#!forum/spotify-android-beta/join)
-* [Android App Testing Page](https://play.google.com/apps/testing/com.spotify.music)
-* [Offical Play Store link](https://play.google.com/store/apps/details?id=com.spotify.music)
-* [Unofficial Linux Mint Link](http://packages.linuxmint.com/search.php?release=any&section=any&keyword=spotify)
-* [Official MacOS Link](https://download.scdn.co/Spotify.dmg)
-* [Official Linux Link](https://www.spotify.com/de/download/linux/)
 
 # Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList)!
 
@@ -19,6 +12,19 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 You can easily import the list into any Ad-blocker.
+
+
+### Official client(s) and download information
+
+* [Android Alpha Google Group](https://groups.google.com/forum/#!forum/spotify-android-alpha/join)
+* [Android Beta Google Group](https://groups.google.com/forum/#!forum/spotify-android-beta/join)
+* [Android App Testing Page](https://play.google.com/apps/testing/com.spotify.music)
+* [Offical Play Store link](https://play.google.com/store/apps/details?id=com.spotify.music)
+* [Unofficial Linux Mint Link](http://packages.linuxmint.com/search.php?release=any&section=any&keyword=spotify)
+* [Official MacOS Link](https://download.scdn.co/Spotify.dmg)
+* [Official Linux Link](https://www.spotify.com/de/download/linux/)
+
+I provide untouched official mirrors as they come in case someone wants to manually up-/downgrade. Spotify itself in fact does keep backups of all their clients but they don't post the links public.  
 
 
 ### Bypassing ToS (_needs confirmation_)
@@ -58,7 +64,6 @@ This helps to get rid of cookie leftover(s) tracker(s) and reduces the chance to
 I do _not officially maintain the project_ which means every work I still do is for the community only and entirely for free. No one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal here. Repacking the installer is not illegal, however modifying the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
 
 Overall I provide:
-* I provide untouched official mirrors as they come in case someone wants to manually up-/downgrade. 
 * I provide Ad-Free mods for Desktops and the Android OS.
 * The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explaine the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning)) which means the Win32 apps are uploaded 4-10 days later (depending how fast Spotify rolls them out).
 
