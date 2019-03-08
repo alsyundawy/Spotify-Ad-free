@@ -7,7 +7,9 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 * [Android Beta Google Group](https://groups.google.com/forum/#!forum/spotify-android-beta/join)
 * [Android App Testing Page](https://play.google.com/apps/testing/com.spotify.music)
 * [Offical Play Store link](https://play.google.com/store/apps/details?id=com.spotify.music)
-* [Official Linux Mint Link](http://packages.linuxmint.com/search.php?release=any&section=any&keyword=spotify)
+* [Unofficial Linux Mint Link](http://packages.linuxmint.com/search.php?release=any&section=any&keyword=spotify)
+* [Official MacOS Link](https://download.scdn.co/Spotify.dmg)
+* [Official Linux Link](https://www.spotify.com/de/download/linux/)
 
 # Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList)!
 
@@ -19,7 +21,7 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 You can easily import the list into any Ad-blocker.
 
 
-### Bypass ToS (?)
+### Bypassing ToS (_needs confirmation_)
 
 * The current ToS (see link below) only affects America and Europe, Swiss is not affected. My advice is to setup a Proxy/VPN for Spotify which connects to Swiss in order to _bypass_ (needs confirmation) the ToS in case you're account get banned you can then win this case and the swiss server in general have less ads.
 
@@ -56,8 +58,9 @@ This helps to get rid of cookie leftover(s) tracker(s) and reduces the chance to
 I do _not officially maintain the project_ which means every work I still do is for the community only and entirely for free. No one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal here. Repacking the installer is not illegal, however modifying the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
 
 Overall I provide:
-* I provide mirrors as they come (in case someone wants to manually up-/downgrade) I also provide Ad-Free mods for Desktops and the Android OS. 
-* The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explaine the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning)) which means the Win32 apps are uploaded 4-7 days later (depending how fast Spotify rolls them out). 
+* I provide untouched official mirrors as they come in case someone wants to manually up-/downgrade. 
+* I provide Ad-Free mods for Desktops and the Android OS.
+* The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explaine the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning)) which means the Win32 apps are uploaded 4-10 days later (depending how fast Spotify rolls them out).
 
 ### Reference
 
