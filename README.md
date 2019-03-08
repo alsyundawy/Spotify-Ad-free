@@ -11,7 +11,10 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
-You can easily import the list into any Ad-blocker.
+
+### Project Overview 
+
+You can easily import the blocker list into any Ad-blocker or download the pre-made Ad-Free versions. 
 
 
 ### Official client(s) and download information
