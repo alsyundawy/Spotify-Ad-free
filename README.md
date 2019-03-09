@@ -22,7 +22,7 @@ You can easily import the blocker list into any Ad-blocker or download the pre-m
 * [Android Alpha Google Group](https://groups.google.com/forum/#!forum/spotify-android-alpha/join)
 * [Android Beta Google Group](https://groups.google.com/forum/#!forum/spotify-android-beta/join)
 * [Android App Testing Page](https://play.google.com/apps/testing/com.spotify.music)
-* [Offical Play Store link](https://play.google.com/store/apps/details?id=com.spotify.music)
+* [Official Play Store link](https://play.google.com/store/apps/details?id=com.spotify.music)
 * [Unofficial Linux Mint Link](http://packages.linuxmint.com/search.php?release=any&section=any&keyword=spotify)
 * [Official MacOS Link](https://download.scdn.co/Spotify.dmg)
 * [Official Linux Link](https://www.spotify.com/de/download/linux/)
@@ -68,10 +68,9 @@ I do _not officially maintain the project_ which means every work I still do is 
 
 Overall I provide:
 * I provide Ad-Free mods for Desktops and the Android OS.
-* The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explaine the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning)) which means the Win32 apps are uploaded 4-10 days later (depending how fast Spotify rolls them out).
+* The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explains the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning) which means the Win32 apps are uploaded around 4-10 days later (depending how fast Spotify rolls them out).
 
 ### Reference
-
 * [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) A modularized Ad Blocker for Spotify on Android.  
 * [BlockTheSpot](https://github.com/master131/BlockTheSpot/) Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner
 * [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
