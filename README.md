@@ -2,7 +2,7 @@ This filter list was created 2015 and is under MIT license by CHEF-KOCH and cont
 
 The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). <br/>
 
-* Current Spotify Release: [Spotify 1.1.2.285](https://download.scdn.co/SpotifyFullSetup.exe), see [here](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/tag/2.7) for mod infos.
+* Current Spotify Release: [Spotify 1.1.2.285.ga97985ef](https://download.scdn.co/SpotifyFullSetup.exe), see [here](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/tag/2.7) for mod infos.
 
 # Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList)!
 
@@ -64,7 +64,7 @@ This helps to get rid of cookie leftover(s) tracker(s) and reduces the chance to
 
 ### Release & RePack information
 
-I do _not officially maintain the project_ which means every work I still do is for the community only and entirely for free. No one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal here. Repacking the installer is not illegal, however modifying the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
+I do _not officially maintain this project_ which means every work I still do is for the community only and entirely for free. No one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal here. Repacking the installer is not illegal, however modifying the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
 
 Overall I provide:
 * I provide Ad-Free mods for Desktops and the Android OS.
