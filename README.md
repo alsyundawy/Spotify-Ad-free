@@ -27,16 +27,6 @@ You can easily import the blocker list into any Ad-blocker or download the pre-m
 
 I provide untouched official mirrors as they come, in case someone wants to manually up-/downgrade. Spotify itself in fact does keep backups of all their client releases but they don't post the links public.
 
-#### Archive ("hidden" Spotify upgrade links)
-
-* http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.6.80.g2a801a53-61.exe
-* http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.7.157.g2a6526f9-88.exe
-* http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.9.133.gcedaee38-122.exe
-* http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.20.94.g8f8543b3-320.exe
-* http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.0.42.151.g19de0aa6-78.exe
-* https://upgrade.scdn.co/upgrade/client/win32-x86/spotify_installer-1.0.92.390.g2ce5ec7d-18.exe
-* http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.1.348.g9064793a-14.exe
-
 
 ### Bypassing ToS (_needs confirmation_)
 
