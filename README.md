@@ -83,6 +83,7 @@ Overall I provide:
 * The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explains the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning) which means the Win32 apps are uploaded around 4-10 days later (depending how fast Spotify rolls them out).
 
 ### Reference
+* [Spotify Downloader (github.com)](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
 * [Spytify (github.com)](https://github.com/jwallet/spy-spotify) Records Spotify without ads while it plays and includes media tags to the recorded files
 * [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) A modularized Ad Blocker for Spotify on Android.  
 * [BlockTheSpot](https://github.com/master131/BlockTheSpot/) Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner
