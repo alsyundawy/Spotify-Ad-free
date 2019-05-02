@@ -73,6 +73,11 @@ mkdir "%localappdata%\Spotify\Update"
 icacls "%localappdata%\Spotify\Update" /deny "%username%":W
 ```
 
+### How to get Spotify premium for ~ 2 €/Dollars
+
+- Use a VPN and use one of the following locations: Argentina, Vietnam, Philippine, Brazil
+- The url is always the same `http://spotify.com/ph/signup` only the `/ph/` part changes which points to the location in this example it points to the philippines. 
+- Some countries censorship the spotify content e.g. India, so don't use such countries.  
 
 ### Release & RePack information
 
