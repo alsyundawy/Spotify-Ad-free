@@ -4,8 +4,8 @@
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 # Expires: 14d
-# TimeUpdated: 2019-04-27
-# Version: 0.0.3.5
+# TimeUpdated: 2019-06-04
+# Version: 0.0.3.7
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 - 2019 by CHEF-KOCH
@@ -622,6 +622,7 @@
 0.0.0.0 d.admob.com
 0.0.0.0 d0.video-ak.cdn.spotify.com
 0.0.0.0 d1.video-ak.cdn.spotify.com
+0.0.0.0 d11.video-ak.cdn.spotify.com
 0.0.0.0 d2.video-ak.cdn.spotify.com
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
@@ -1250,3 +1251,5 @@
 0.0.0.0 zayit.lon.spotify.com
 0.0.0.0 zayit.lon2.spotify.com
 0.0.0.0 zhcn.admob.com
+0.0.0.0 beta.spotify.map.fastly.net
+0.0.0.0 prod.spotify.map.fastlylb.net
