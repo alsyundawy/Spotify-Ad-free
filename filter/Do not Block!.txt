@@ -27,6 +27,7 @@ ns1.p23.dynect.net
 Google
 ============================
 googlehosted.l.googleusercontent.com
+redirector.gvt1.com
 
 Spotify network (vpn)
 ============================
