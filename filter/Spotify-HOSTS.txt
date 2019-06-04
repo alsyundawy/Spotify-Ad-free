@@ -38,7 +38,7 @@
 0.0.0.0 exp-canary.wg.spotify.com
 0.0.0.0 generic.wg.spotify.com
 0.0.0.0 partners.wg.spotify.com
-0.0.0.0 spclient.wg.spotify.com
+#0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spclient-canary.wg.spotify.com
 0.0.0.0 ams12s29-in-f102.1e100.net
 0.0.0.0 ams15s40-in-f1.1e100.net
