@@ -2,7 +2,7 @@ This filter list was created 2015 and is under MIT license by CHEF-KOCH and cont
 
 The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). <br/>
 
-# Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList)!
+# Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList) ([mirror](https://gitlab.com/CHEF-KOCH/cks-filterlist))!
 
 [![GitHub release](https://img.shields.io/github/release/CHEF-KOCH/Spotify-Ad-free.svg?label=Latest%20Release&style=popout)](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/latest)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
