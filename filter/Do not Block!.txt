@@ -257,12 +257,8 @@ download.spotify.com
 download.spotify.map.fastly.net
 go.scdn.co
 i.scdn.co
-images.spotify.com
-lineup-images.scdn.co
 live-tile-images.scdn.co
-merch-img.scdn.co
 messenger-webview.scdn.co
-mosaic.scdn.co
 o.scdn.co
 open.scdn.co
 p.scdn.co
@@ -279,8 +275,6 @@ spritemaps.scdn.co
 spotify.map.fastly.net
 squadcdn.spotify.map.fastly.net
 support2.scdn.co
-thisis-images.scdn.co
-t.scdn.co
 tv.scdn.co
 tv-cast-prod.scdn.co
 tv-static.scdn.co
@@ -421,6 +415,11 @@ audio-sp-sjcb.spotify.com
 audio-sp-tyo.spotify.com
 audio-sp.spotify.com
 
+Playlist
+======
+lineup-images.scdn.co
+mosaic.scdn.co #playlist images
+thisis-images.scdn.co #playlist images
 
 Charts
 ======
@@ -432,6 +431,10 @@ ns4.fastly.net
 
 Images
 =======
+t.scdn.co
+merch-img.scdn.co
+images.spotify.com
+dailymix-images.scdn.co
 prod.b.ssl.us-eu.fastlylb.net 
 weblb-wg.gslb.spotify.com
 beta.spotify.map.fastly.net
