@@ -77,7 +77,8 @@ icacls "%localappdata%\Spotify\Update" /deny "%username%":W
 
 - Use a VPN and use one of the following locations: Argentina, Vietnam, Philippine, Brazil
 - The url is always the same `http://spotify.com/ph/signup` only the `/ph/` part changes which points to the location in this example it points to the philippines. 
-- Some countries censorship the spotify content e.g. India, so don't use such countries.  
+- Some countries censorship the spotify content e.g. India, so don't use such countries.
+
 
 ### Release & RePack information
 
@@ -96,7 +97,7 @@ Overall I provide:
 * [Proof that Spotify collects everything](https://twitter.com/steipete/status/1025024813889478656) + they [sell your private data](https://betanews.com/2016/07/22/spotify-sells-user-data-to-advertisers/)
 * [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup your playlist & tracks.
 * [Yay for Bloatware: Samsung to Pre-Install Spotify on Its Smartphones](https://news.softpedia.com/news/yay-for-bloatware-samsung-to-pre-install-spotify-on-its-smartphones-525250.shtml)
-- [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
+* [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
 
 
 ### Spotify Alternatives
