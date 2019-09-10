@@ -5,7 +5,7 @@
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 # Expires: 14d
 # TimeUpdated: 2019-09-10
-# Version: 0.0.3.8
+# Version: 0.0.3.9
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 - 2019 by CHEF-KOCH
@@ -34,6 +34,11 @@
 #
 # ---------- Spotify Video & Audio related Ads + Partner Ads ----------
 #0.0.0.0 spclient.wg.spotify.com
+#
+0.0.0.0 keyframes-fa.cdn.spotify.com
+0.0.0.0 dzp5etodm9s0j.cloudfront.net
+0.0.0.0 35.186.224.53
+0.0.0.0 prod.www-fastly-com.map.fastly.net
 0.0.0.0 spotify.mame.com
 0.0.0.0 api-partners-canary.wg.spotify.com
 0.0.0.0 api-tv-canary.wg.spotify.com
