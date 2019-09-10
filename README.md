@@ -105,5 +105,6 @@ Overall I provide:
 
 
 ### Spotify Alternatives
+* [Audius](https://audius.co/)
 * [Qobuz](https://www.qobuz.com/gb-en/discover)
 * [Deezer](https://www.deezer.com/en/)
