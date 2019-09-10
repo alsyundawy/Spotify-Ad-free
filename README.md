@@ -100,6 +100,10 @@ Overall I provide:
 * [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
 
 
+### Anti-debugger protection in Spotify 
+* [Spotify vs OllyDbg (2009) (web.archive.org)](https://web.archive.org/web/20130417061130/http://www.steike.com/code/spotify-vs-ollydbg/) 
+
+
 ### Spotify Alternatives
 * [Qobuz](https://www.qobuz.com/gb-en/discover)
 * [Deezer](https://www.deezer.com/en/)
