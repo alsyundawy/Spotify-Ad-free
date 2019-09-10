@@ -104,6 +104,10 @@ Overall I provide:
 * [Spotify vs OllyDbg (2009) (web.archive.org)](https://web.archive.org/web/20130417061130/http://www.steike.com/code/spotify-vs-ollydbg/) 
 
 
+### Browser extension (for Spotify Web)
+* [Spotify Crack Chrome App (github.com)](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
+
+
 ### Spotify Alternatives
 * [Audius](https://audius.co/)
 * [Qobuz](https://www.qobuz.com/gb-en/discover)
