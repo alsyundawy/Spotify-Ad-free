@@ -12,10 +12,10 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 
 ### Project Overview 
 
-You can easily import the blocker list into any Ad-blocker or download the pre-made Ad-Free versions. 
+You can easily import the "blocker" (filters) list into any Ad-blocker or download the pre-made Ad-Free versions. A HOSTS file is not a "crack". 
 
 
-### Official client(s) and download information
+### Official client(s) & download information
 
 * [Android Alpha Google Group](https://groups.google.com/forum/#!forum/spotify-android-alpha/join)
 * [Android Beta Google Group](https://groups.google.com/forum/#!forum/spotify-android-beta/join)
@@ -82,11 +82,27 @@ icacls "%localappdata%\Spotify\Update" /deny "%username%":W
 
 ### Release & RePack information
 
-I do _not officially maintain this project_ which means every work I still do is for the community only and entirely for free. No one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal here. Repacking the installer is not illegal, however modifying the files itself is because it's against ToS (which I respect) but including several additional patches and a hosts file seems okay to me.
+I do _not officially maintain this project_ which means every work I still do is for the community only and entirely for free. I spent a lot of time debugging and inspecting Spotify's traffic. 
 
-Overall I provide:
-* I provide Ad-Free mods for Desktops and the Android OS.
-* The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explains the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning) which means the Win32 apps are uploaded around 4-10 days later (depending how fast Spotify rolls them out).
+No one is forced to download something from the [release tab](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases) nor do I support something illegal here. Repacking the installer is not illegal, however modifying the files itself is because it's against ToS (which I respect) but including several additional patches and a HOSTS file seems pretty much okay because Spotify does include already anti-blocking debugging techniques to prevent all of this. Abusing "holes" is illegal. 
+
+In this repo I provide:
+* Ad-Free mods for Desktops and the Android OS. MacOS is official not supported because I don't use any Apple products.
+* Filter lists in order to block ads (via hosts).
+
+
+### Spotify updating mechanism
+The UWP Spotify app gets updates _quicker_ since they are automatically compiled (which explains the strange [versions scheme](https://en.wikipedia.org/wiki/Software_versioning) which means the Win32 apps are uploaded around 4-10 days later (depending how fast Spotify rolls them out).
+
+### Preventing updates on MacOS (untested)
+The user [julionc](https://github.com/julionc) wrote a small script to prevent updates on MacOS.
+
+* Uninstall all old Spotify versions on your MacOS.
+* Install a Spotify MacOS version [below 1.0.80](https://mac.filehorse.com/download-spotify/10400/). 
+* Open and [copy the file](https://github.com/julionc/dotfiles/blob/9990859cf4de0536d0d2b4351c3f19dec9fdfd48/osx/doNotUpdateSpotify.sh) to `whatever.sh`. 
+* Save the file on your desktop and open the MacOS terminal, enter `cd desktop` and then execute `sudo sh whatever.sh`.
+
+The script will block Spotify from updating itself. Alternative _solutions_ are [Spotifree](https://github.com/simonmeusel/MuteSpotifyAds#alternatives) & [MuteSpotify Ads](https://github.com/simonmeusel/MuteSpotifyAds). If all of it fails, uBlock is still working (Spotify Web) on all systems without any need for installing third-party software on your OS.
 
 ### Reference
 * [Spotify Downloader (github.com)](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
@@ -98,6 +114,9 @@ Overall I provide:
 * [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup your playlist & tracks.
 * [Yay for Bloatware: Samsung to Pre-Install Spotify on Its Smartphones](https://news.softpedia.com/news/yay-for-bloatware-samsung-to-pre-install-spotify-on-its-smartphones-525250.shtml)
 * [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
+
+### Block Spotify updates
+* [spotify_version_keeper (github.com)](https://github.com/SrMordred/spotify_version_keeper) - A small app which prevents Spotify updates on Windows. 
 
 
 ### Anti-debugger protection in Spotify 
@@ -112,3 +131,4 @@ Overall I provide:
 * [Audius](https://audius.co/)
 * [Qobuz](https://www.qobuz.com/gb-en/discover)
 * [Deezer](https://www.deezer.com/en/)
+
