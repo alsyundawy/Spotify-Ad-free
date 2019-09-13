@@ -127,8 +127,15 @@ The script will block Spotify from updating itself. Alternative _solutions_ are 
 * [Spotify Crack Chrome App (github.com)](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
 
 
+### Criticism of Spotify
+- The spotify clients aren't open source
+- [Spotify now requiring users to share location data to prevent abuse of family plan](https://9to5mac.com/2019/09/12/spottily-family-plan-location/)
+- other [stuff mentioned on WIkipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
+
+
 ### Spotify Alternatives
 * [Audius](https://audius.co/)
 * [Qobuz](https://www.qobuz.com/gb-en/discover)
 * [Deezer](https://www.deezer.com/en/)
+
 
