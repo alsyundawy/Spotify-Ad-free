@@ -2,10 +2,11 @@
 
 This filter list was created 2015 and is under MIT license by CHEF-KOCH and contains all the advertising domains which are hard-coded within Spotify (free account). <br/>
 
-The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). <br/> An unofficial FAQ can be found here.
+The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). An unofficial [FAQ can be found here](https://github.com/CHEF-KOCH/Spotify-Ad-free/blob/master/Spotify%20FAQ.md), read it - it's worth it!. <br/> 
 
 ~~# Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList) ([mirror](https://gitlab.com/CHEF-KOCH/cks-filterlist))!~~
 
+[![HitCount](http://hits.dwyl.io/CHEF-KOCH/Spotify-Ad-free.svg)](http://hits.dwyl.io/CHEF-KOCH/Spotify-Ad-free)
 [![GitHub release](https://img.shields.io/github/release/CHEF-KOCH/Spotify-Ad-free.svg?label=Latest%20Release&style=popout)](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/latest)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
