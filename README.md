@@ -127,6 +127,17 @@ The script will block Spotify from updating itself. Alternative _solutions_ are 
 * [Spotify Crack Chrome App (github.com)](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
 
 
+### How to bypass Spotify's location data sharing on Android
+
+The SPotify mobile apps requiring that you share your location, this is an privacy attack and (by default) there is no way to turn it off (except blocking the update itself which introduced the feature). However in order to deal with the new Spotify "gimmick" there are ways to protect your privacy without breaking the app and without downgrading to another Spotify version.
+
+
+* Download a [GPS spoofing app](https://play.google.com/store/search?q=gps%20spoof) e.g. [Fake GPS location](https://play.google.com/store/apps/details?id=com.lexa.fakegps) (there are also bunch Magisk & Xposed based solutions in the official stores avbl.)
+* Enable Developer options
+* Select mock location app
+* Spoof your location, choose and give the gps spoofing app your fake data
+
+
 ### Criticism of Spotify
 - The spotify clients aren't open source
 - [Spotify now requiring users to share location data to prevent abuse of family plan](https://9to5mac.com/2019/09/12/spottily-family-plan-location/)
