@@ -11,6 +11,7 @@ A small FAQ and additional background info on certain things which are Spotify (
 * [Unofficial Linux Mint Link](http://packages.linuxmint.com/search.php?release=any&section=any&keyword=spotify)
 * [Official MacOS Link](https://download.scdn.co/Spotify.dmg)
 * [Official Linux Link](https://www.spotify.com/de/download/linux/)
+* [Microsoft Store Version] (UWP app)(https://www.spotify.com/us/download/other/)
 
 
 I provide untouched official mirrors as they come, in case someone wants to manually up-/downgrade. Spotify itself in fact does keep backups of all their client releases but they don't post the links public.
