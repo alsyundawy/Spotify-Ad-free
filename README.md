@@ -61,6 +61,6 @@ In this repo I provide:
 
 ### Spotify Alternatives
 * [Audius](https://audius.co/)
-* [Qobuz](https://www.qobuz.com/gb-en/discover)
+* [Bandcamp](https://bandcamp.com/)
 * [Deezer](https://www.deezer.com/en/)
-
+* [Qobuz](https://www.qobuz.com/gb-en/discover)
