@@ -53,6 +53,10 @@ In this repo I provide:
 * [Spotify Crack Chrome App (github.com)](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
 
 
+# Spotify Downloader (CLI)
+- [Spotify Downloader Utility](https://github.com/SwapnilSoni1999/spotify-dl) - Download playlist and songs from spotify URL.
+
+
 ### Criticism of Spotify
 - The spotify clients aren't open source
 - [Spotify now requiring users to share location data to prevent abuse of family plan](https://9to5mac.com/2019/09/12/spottily-family-plan-location/)
