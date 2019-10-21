@@ -24,12 +24,16 @@ dns1.p07.nsone.net
 ns4.p23.dynect.net
 ns1.p23.dynect.net
 
-Google
+Google (Partner)
 ============================
 googlehosted.l.googleusercontent.com
 redirector.gvt1.com
 
-Spotify network (vpn)
+Spotify (Download - language specific)
+============================
+audio4-ak.spotify.com.edgesuite.net
+
+Spotify network (VPN)
 ============================
 vpn-ash1-1.ash.spotify.com
 vpn-ash1-1.ash1.spotify.com
