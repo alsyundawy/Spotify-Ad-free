@@ -402,7 +402,6 @@
 0.0.0.0 audio-sp-sto.spotify.com
 0.0.0.0 audio-sp-ams2.pscdn.co
 0.0.0.0 audio2.spotify.com
-0.0.0.0 audio4-ak.spotify.com.edgesuite.net
 0.0.0.0 audio4-akp.spotify.com.edgesuite.net
 0.0.0.0 auditdesk-server.spotify.com
 0.0.0.0 austin.logs.roku.com
