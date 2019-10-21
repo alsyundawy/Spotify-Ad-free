@@ -4,8 +4,8 @@
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 ! Expires: 14d
-! Version: 0.0.2.6
-! Last updated: 2019-04-27
+! Version: 0.0.2.7
+! Last updated: 2019-10-21
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 - 2019 by CHEF-KOCH
@@ -304,14 +304,13 @@
 ||audio-akp.spotify.com^
 ||audio-cf.spotify.com^
 ||audio-ec.spotify.com^
-#||audio-fa.scdn.co # do not block while using chromecast^
+#||audio-fa.scdn.co^ # do not block while using chromecast
 ||audio-fa.spotify.com^
 ||audio-fab.spotify.com^
 ||audio-fac-spotify.com^
 ||audio-fac.spotify.com^
 ||audio-gc.scdn.co^
 ||audio-gc.spotify.com^
-||audio4-ak.spotify.com.edgesuite.net^
 ||audio4-akp.spotify.com.edgesuite.net^
 ||auditdesk-server.spotify.com^
 ||austin.logs.roku.com^
