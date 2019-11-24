@@ -68,3 +68,4 @@ In this repo I provide:
 * [Bandcamp](https://bandcamp.com/)
 * [Deezer](https://www.deezer.com/en/)
 * [Qobuz](https://www.qobuz.com/gb-en/discover)
+* [gramophy](https://github.com/ladiesman6969/Gramophy)
