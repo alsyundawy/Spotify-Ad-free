@@ -47,6 +47,7 @@ In this repo I provide:
 * [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup your playlist & tracks.
 * [Yay for Bloatware: Samsung to Pre-Install Spotify on Its Smartphones](https://news.softpedia.com/news/yay-for-bloatware-samsung-to-pre-install-spotify-on-its-smartphones-525250.shtml)
 * [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
+* [How Good Is Spotify’s Audio Quality?](https://www.xaprb.com/blog/spotify-audio-quality/)
 
 
 ### Ad-Block Browser extension (for Spotify Web)
@@ -68,4 +69,7 @@ In this repo I provide:
 * [Bandcamp](https://bandcamp.com/)
 * [Deezer](https://www.deezer.com/en/)
 * [Qobuz](https://www.qobuz.com/gb-en/discover)
+* [Roon](https://roonlabs.com/)
+* [Murfie](https://www.murfie.com/)
+* [Subsonic](http://www.subsonic.org/pages/index.jsp)
 * [gramophy](https://github.com/ladiesman6969/Gramophy)
