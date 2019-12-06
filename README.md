@@ -53,8 +53,11 @@ In this repo I provide:
 ### Ad-Block Browser extension (for Spotify Web)
 * [Spotify Crack Chrome App (github.com)](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
 
+### Spotify Review of the year
+- [Review of the year (2019) - Needs spotify login](https://www.spotify.com/en/wrapped/)
 
-# Spotify Downloader (CLI)
+
+### Spotify Downloader (CLI)
 - [Spotify Downloader Utility](https://github.com/SwapnilSoni1999/spotify-dl) - Download playlist and songs from spotify URL.
 
 
