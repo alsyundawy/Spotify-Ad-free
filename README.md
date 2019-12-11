@@ -2,7 +2,7 @@
 
 This filter list was created 2015 and is under MIT license by CHEF-KOCH and contains all the advertising domains which are hard-coded within Spotify (free account). <br/>
 
-The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). An unofficial [FAQ can be found here](https://github.com/CHEF-KOCH/Spotify-Ad-free/blob/master/Spotify%20FAQ.md), read it - it's worth it!. <br/> 
+The project is unofficial and not in any relationship with [Spotify AB](https://en.wikipedia.org/wiki/Spotify). Spotify (C) is a trademark of Spotify AB. An unofficial [FAQ can be found here](https://github.com/CHEF-KOCH/Spotify-Ad-free/blob/master/Spotify%20FAQ.md), read it - it's worth it!. <br/> 
 
 ~~# Project is closed and merged within [CK's-FilterList](https://github.com/CHEF-KOCH/CKs-FilterList) ([mirror](https://gitlab.com/CHEF-KOCH/cks-filterlist))!~~
 
@@ -53,6 +53,7 @@ In this repo I provide:
 ### Ad-Block Browser extension (for Spotify Web)
 * [Spotify Crack Chrome App (github.com)](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
 
+
 ### Spotify Review of the year
 - [Review of the year (2019) - Needs spotify login](https://www.spotify.com/en/wrapped/)
 
@@ -65,6 +66,10 @@ In this repo I provide:
 - The spotify clients aren't open source
 - [Spotify now requiring users to share location data to prevent abuse of family plan](https://9to5mac.com/2019/09/12/spottily-family-plan-location/)
 - other [stuff mentioned on WIkipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
+
+
+### Analyze Spotify GDPR data streams
+* [SpotifyStats source code](https://github.com/Maxr1998/SpotifyStats) & [Analyzer webpage](https://maxr1998.github.io/SpotifyStats/)
 
 
 ### Spotify Alternatives
