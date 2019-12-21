@@ -4,8 +4,8 @@
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 # Expires: 14d
-# TimeUpdated: 2019-11-22
-# Version: 0.0.4.2
+# TimeUpdated: 2019-12-21
+# Version: 0.0.4.3
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 - present by CHEF-KOCH
@@ -977,7 +977,6 @@
 0.0.0.0 oktascimserver-test.spotify.com
 0.0.0.0 oktascimserver.spotify.com
 0.0.0.0 omaze.com
-0.0.0.0 open.spotify.com
 0.0.0.0 ops-prod.us-west-2.k8s.ops.tune.com
 0.0.0.0 orange-fr.adinfuse.com
 0.0.0.0 orangeuk-mc.adinfuse.com
