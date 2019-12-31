@@ -48,6 +48,7 @@ In this repo I provide:
 * [Yay for Bloatware: Samsung to Pre-Install Spotify on Its Smartphones](https://news.softpedia.com/news/yay-for-bloatware-samsung-to-pre-install-spotify-on-its-smartphones-525250.shtml)
 * [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
 * [How Good Is Spotify’s Audio Quality?](https://www.xaprb.com/blog/spotify-audio-quality/)
+* [MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - A efficent MacOS application automatically silencing ads on the spotify desktop app.
 
 
 ### Ad-Block Browser extension (for Spotify Web)
