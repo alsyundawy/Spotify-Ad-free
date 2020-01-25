@@ -13,9 +13,9 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 
-### Spotify app privacy
+### Spotify (app) privacy
 
-You can easily import the "blocker" (filters) list into any Ad-blocker or download the pre-made Ad-Free versions. A HOSTS file is not a "crack". 
+You can easily import the "blocker" (filters) list into any Ad-blocker or download the pre-made Ad-Free versions. A HOSTS file is not a "crack" and not something you get banned for while using it.
 
 An additional advice is to set the following parameters within the Spotify app:
 
@@ -23,7 +23,7 @@ An additional advice is to set the following parameters within the Spotify app:
 - Edit - Preferences (CTRL + P) - Advertisement - Change advertising preferences (disable everything here on the Spotify website)
 - Manually delete the Spotify cache folder and mark it as _read-only_so that Spotify won't get access tp it, which prevents to store meta-data and ads in it. 
 
-This helps to get rid of cookie leftover(s) tracker(s) and reduces the chance to see banner ads (it does not remove them!). 
+This helps to get rid of [cookie leftover(s) tracker(s)](https://old.reddit.com/r/privacy/comments/eqzg51/what_about_the_privacy_of_my_data_in_spotify/) and reduces the chance to see banner ads (it does not remove them!). 
 
 
 ### Release & RePack information
@@ -82,3 +82,7 @@ In this repo I provide:
 * [Murfie](https://www.murfie.com/)
 * [Subsonic](http://www.subsonic.org/pages/index.jsp)
 * [gramophy](https://github.com/ladiesman6969/Gramophy)
+
+
+### Record Spotify's audio
+* [Recording audio playing on the computer via audacity](https://manual.audacityteam.org/man/tutorial_recording_audio_playing_on_the_computer.html)
