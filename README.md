@@ -38,9 +38,9 @@ In this repo I provide:
 
 
 ### Reference
-* [Spotify Downloader (github.com)](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
-* [Spytify (github.com)](https://github.com/jwallet/spy-spotify) - Records Spotify without ads while it plays and includes media tags to the recorded files
-* [abertschi/ad-free (github.com)](http://adfree.abertschi.ch) - A modularized Ad Blocker for Spotify on Android.  
+* [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
+* [Spytify](https://github.com/jwallet/spy-spotify) - Records Spotify without ads while it plays and includes media tags to the recorded files
+* [abertschi/ad-free](http://adfree.abertschi.ch) - A modularized Ad Blocker for Spotify on Android.  
 * ~~[BlockTheSpot](https://github.com/master131/BlockTheSpot/) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner~~
 * [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
 * [Proof that Spotify collects everything](https://twitter.com/steipete/status/1025024813889478656) + they [sell your private data](https://betanews.com/2016/07/22/spotify-sells-user-data-to-advertisers/)
@@ -52,7 +52,7 @@ In this repo I provide:
 
 
 ### Ad-Block Browser extension (for Spotify Web)
-* [Spotify Crack Chrome App (github.com)](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
+* [Spotify Crack Chrome App](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you nver heard of uBlock/AdGuard & Co. 
 
 
 ### Spotify Review of the year
@@ -61,7 +61,7 @@ In this repo I provide:
 
 ### Spotify Downloader (CLI)
 - [Spotify Downloader Utility](https://github.com/SwapnilSoni1999/spotify-dl) - Download playlist and songs from spotify URL.
-- [XSpotify](https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass.
+- [XSpotify](https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass (_160 kb/s, 32-bit, 44100 Hz, .ogg format_)
 
 
 ### Criticism of Spotify
