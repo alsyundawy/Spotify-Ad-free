@@ -61,6 +61,7 @@ In this repo I provide:
 
 ### Spotify Downloader (CLI)
 - [Spotify Downloader Utility](https://github.com/SwapnilSoni1999/spotify-dl) - Download playlist and songs from spotify URL.
+- [XSpotify](https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass.
 
 
 ### Criticism of Spotify
