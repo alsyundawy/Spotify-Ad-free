@@ -87,3 +87,5 @@ In this repo I provide:
 
 ### Record Spotify's audio
 * [Recording audio playing on the computer via audacity](https://manual.audacityteam.org/man/tutorial_recording_audio_playing_on_the_computer.html)
+* [spotify-ripper](https://github.com/hbashton/spotify-ripper)
+* [Sidify](https://www.sidify.de/)
