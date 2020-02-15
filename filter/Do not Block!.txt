@@ -192,6 +192,50 @@ img.spotify.com
 login-signup.scdn.co
 lon.weblb-wg.dual-gslb.spotify.com
 
+
+Spotify Login Server
+============================
+login5.spotify.com
+
+
+Google APIS / Storage / HOST
+============================
+storage.googleapis.com
+
+
+XBox Images / Connection
+============================
+comments.xboxlive.com
+sessiondirectory.xboxlive.com
+titlehub.xboxlive.com
+
+
+OCSP (SSL Certificates)
+============================
+ocsp.comodoca.com
+
+
+GitHub
+============================
+github.githubassets.com
+
+
+Spotify Facebook Connection
+============================
+graph.facebook.com
+platform-lookaside.fbsbx.com
+scontent.xx.fbcdn.net
+
+
+Steam Connection
+===========================
+cm1-iad1.cm.steampowered.com
+
+
+Microsoft Account Login
+===========================
+login.live.com
+
 Spotify server (akamai technologies)
 ============================
 play.spotify.edgekey.net
@@ -406,6 +450,7 @@ audio-sp-fra.spotify.com
 audio-sp-fra2-13.spotifycdn.net
 audio-sp-fra2.spotify.com
 audio-sp-lhr.spotify.com
+audio-sp-lhr.spotifycdn.net
 audio-sp-lhr6.spotify.com
 audio-sp-lhrb.spotify.com
 audio-sp-ord.spotify.com
