@@ -67,6 +67,7 @@ In this repo I provide:
 
 
 ### Spotify Downloader (CLI)
+- [Chimera](https://notabug.org/Aesir/chimera) - Multi music downloader for deezer, tidal, qobuz, soundcloud, napster, gpm, dtq & Spotify.
 - [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
 - [Spotify Downloader Utility](https://github.com/SwapnilSoni1999/spotify-dl) - Download playlist and songs from Spotify URL.
 - [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with album art and meta-tags.
