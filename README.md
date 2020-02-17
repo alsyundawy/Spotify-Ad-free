@@ -43,8 +43,9 @@ In this repo I provide:
 - [Sidify](https://www.sidify.de/)
 
 
-## Spotify Backup
+## Spotify Backup Projects
 - [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup your playlist & tracks!
+
 
 ## Spotify Ad-Blocker Projects
 - ~~[BlockTheSpot](https://github.com/master131/BlockTheSpot/) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner~~
@@ -55,11 +56,13 @@ In this repo I provide:
 
 
 ## MacOS
-- [MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - A efficient MacOS application automatically silencing ads on the Spotify desktop app.
+- ~~[MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - A efficient MacOS application automatically silencing ads on the Spotify desktop app.~~
+- ~~[librespot](https://github.com/plietar/librespot)~~
+- [Macsome Spotify Downloader](https://www.macsome.com/spotify-downloader/) Paid Spotify Music Downloader.
 
 
 ### Ad-Block Browser extension (for Spotify Web)
-- [Spotify Crack Chrome App](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you never heard of uBlock, AdGuard & Co.
+- [Spotify "crack" Chrome App](https://github.com/sooxiaotong/spotify-crack-chrome-app) - Basically an app for Chrome in case you never heard of uBlock, AdGuard & Co.
 
 
 ### Spotify Review of the year
@@ -77,7 +80,7 @@ In this repo I provide:
 ### Criticism of Spotify
 - The spotify clients aren't open source
 - [Spotify now requiring users to share location data to prevent abuse of family plan](https://9to5mac.com/2019/09/12/spottily-family-plan-location/)
-- other [stuff mentioned on WIkipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
+- other [stuff mentioned on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
 - [Proof that Spotify collects everything](https://twitter.com/steipete/status/1025024813889478656) + they [sell your private data](https://betanews.com/2016/07/22/spotify-sells-user-data-to-advertisers/)
 - [Yay for Bloatware: Samsung to Pre-Install Spotify on Its Smartphones](https://news.softpedia.com/news/yay-for-bloatware-samsung-to-pre-install-spotify-on-its-smartphones-525250.shtml)
 
@@ -100,3 +103,12 @@ In this repo I provide:
 ### Reference
 - [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
 - [How Good Is Spotify's Audio Quality?](https://www.xaprb.com/blog/spotify-audio-quality/)
+- [Spotify API documentation](https://developer.spotify.com/documentation/web-api/)
+
+
+### Reversing Spotify
+- [Reversing the MacOS Spotify Client](https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d)
+- [Spotify vs OllyDbg](www.steike.com/code/spotify-vs-ollydbg/)
+- [Breaking Spotify DRM with PANDA](http://moyix.blogspot.com/2014/07/breaking-spotify-drm-with-panda.html)
+- [Reverse engineering Spotify and Chromecast protocols to let my vocal assistant play music](https://developers.caffeina.com/reverse-engineering-spotify-and-chromecast-protocols-to-let-my-vocal-assistant-play-music-ada4767efa2?source=linkShare-7c6a9af31a39-1517909746)
+- [Automatic Hooking/Patching for Spotify on MacOS](https://medium.com/swlh/skiptracing-automated-hook-resolution-74eda756533d)
