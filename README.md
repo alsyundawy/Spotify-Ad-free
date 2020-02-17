@@ -100,6 +100,10 @@ In this repo I provide:
 - [Subsonic](http://www.subsonic.org/pages/index.jsp)
 
 
+### Spotify Equalizer
+- Spotify seems to work on an integrated Equalizer (for the Web Player) | [Source](https://twitter.com/wongmjane/status/1226825288119537664?ref_src=twsrc%5Etfw)
+
+
 ### Reference
 - [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
 - [How Good Is Spotify's Audio Quality?](https://www.xaprb.com/blog/spotify-audio-quality/)
