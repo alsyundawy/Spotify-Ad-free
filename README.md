@@ -47,7 +47,7 @@ In this repo I provide:
 - [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup your playlist & tracks!
 
 
-## Spotify Ad-Blocker Projects
+## Spotify Windows Ad-Blocker Projects
 - ~~[BlockTheSpot](https://github.com/master131/BlockTheSpot/) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner~~
 
 
@@ -56,6 +56,7 @@ In this repo I provide:
 
 
 ## MacOS
+- [spotify-adblock-macos](https://github.com/AnanthVivekanand/spotify-adblock-macos)
 - ~~[MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - A efficient MacOS application automatically silencing ads on the Spotify desktop app.~~
 - ~~[librespot](https://github.com/plietar/librespot)~~
 - [Macsome Spotify Downloader](https://www.macsome.com/spotify-downloader/) Paid Spotify Music Downloader.
