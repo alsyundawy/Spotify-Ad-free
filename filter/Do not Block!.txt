@@ -23,6 +23,8 @@ dns3.p07.nsone.net
 dns1.p07.nsone.net
 ns4.p23.dynect.net
 ns1.p23.dynect.net
+gcdn.2mdn.net
+gew1-accesspoint-b-zzfg.ap.spotify.com
 
 Google (Partner)
 ============================
@@ -37,6 +39,8 @@ Spotify network (VPN)
 ============================
 vpn-ash1-1.ash.spotify.com
 vpn-ash1-1.ash1.spotify.com
+audio-sp-fra2.pscdn.co
+104.199.65.11
 
 Spotify global network servers (router) + equinix
 ============================
@@ -191,7 +195,7 @@ devnews.spotify.com
 img.spotify.com
 login-signup.scdn.co
 lon.weblb-wg.dual-gslb.spotify.com
-
+gslb.spotify.com
 
 Spotify Login Server
 ============================
@@ -338,6 +342,7 @@ www.scdn.co
 
 Spotify servers (google cloud, does the routing, geo dependent)
 ============================
+api-spotify.com
 accounts.spotify.com
 ap.gslb.spotify.com
 ap.spotify.com
@@ -348,7 +353,7 @@ axp.spotify.com
 beta.spotify.com
 blog.spotify.com
 bloodhound.spotify.com
-dealer.spotify.com
+dealer.spotify.com (triggered by Discord and other apps)
 demo-builder.spotify.com
 desktop.spotify.com
 embed.spotify.com
@@ -445,6 +450,7 @@ audio-sp-bma.spotify.com
 audio-sp-bma6.spotify.com
 audio-sp-bmab.spotify.com
 audio-sp-dca.spotify.com
+geo3.ggpht.com
 audio-sp-dca6.spotify.com
 audio-sp-fra.spotify.com
 audio-sp-fra2-13.spotifycdn.net
@@ -491,4 +497,5 @@ prod.b.ssl.us-eu.fastlylb.net
 prod.spotify.map.fastlylb.net
 seeded-session-images.scdn.co
 t.scdn.co
+sto3.spotify.com
 weblb-wg.gslb.spotify.com
