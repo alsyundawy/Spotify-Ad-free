@@ -35,6 +35,10 @@ Spotify (Download - language specific)
 ============================
 audio4-ak.spotify.com.edgesuite.net
 
+Twitter images
+============================
+cs196.wac.edgecastcdn.net
+
 Spotify network (VPN)
 ============================
 vpn-ash1-1.ash.spotify.com
