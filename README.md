@@ -113,7 +113,7 @@ In this repo I provide:
 
 ### Reversing Spotify
 - [Reversing the MacOS Spotify Client](https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d)
-- [Spotify vs OllyDbg](www.steike.com/code/spotify-vs-ollydbg/)
+- [Spotify vs OllyDbg](http://www.steike.com/code/spotify-vs-ollydbg/)
 - [Breaking Spotify DRM with PANDA](http://moyix.blogspot.com/2014/07/breaking-spotify-drm-with-panda.html)
 - [Reverse engineering Spotify and Chromecast protocols to let my vocal assistant play music](https://developers.caffeina.com/reverse-engineering-spotify-and-chromecast-protocols-to-let-my-vocal-assistant-play-music-ada4767efa2?source=linkShare-7c6a9af31a39-1517909746)
 - [Automatic Hooking/Patching for Spotify on MacOS](https://medium.com/swlh/skiptracing-automated-hook-resolution-74eda756533d)
