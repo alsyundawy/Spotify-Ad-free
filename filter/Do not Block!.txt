@@ -349,7 +349,6 @@ Spotify servers (google cloud, does the routing, geo dependent)
 api-spotify.com
 accounts.spotify.com
 ap.gslb.spotify.com
-ap.spotify.com
 apresolve.spotify.com
 audio-gc.scdn.co
 audio-gc.spotify.com
