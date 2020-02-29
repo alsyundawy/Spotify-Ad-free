@@ -91,14 +91,30 @@ In this repo I provide:
 
 
 ### Spotify Service Alternatives
+- [Amazon Prime Music](https://www.amazon.com/Amazon-Music/)
+- [Apple Music](https://www.apple.com/chde/music/)
 - [Audius](https://audius.co/)
 - [Bandcamp](https://bandcamp.com/)
+- [BandCamp](https://bandcamp.com/)
 - [Deezer](https://www.deezer.com/en/)
 - [gramophy](https://github.com/ladiesman6969/Gramophy)
+- [Last.fm](http://www.last.fm/)
+- [Mflow](http://beta.mflow.com/)
 - [Murfie](https://www.murfie.com/)
+- [Musicovery](http://b2b.musicovery.com/)
+- [MusicUp](https://getmusicup.com/)
+- [nuclear](https://github.com/nukeop/nuclear) - A free alternative to Spotify. No DRM. 100% free software. Pulls music from Youtube, Soundcloud and Bandcamp.
+- [Pandora Radio](https://www.pandora.com/)
 - [Qobuz](https://www.qobuz.com/gb-en/discover)
+- [Radioplayer](https://www.radioplayer.co.uk/)
 - [Roon](https://roonlabs.com/)
+- [Saavn](https://www.jiosaavn.com/)
+- [Slacker Radio](https://www.livexlive.com/)
+- [SoundCloud](https://soundcloud.com/)
+- [Stereomood](https://stereomood.com/)
 - [Subsonic](http://www.subsonic.org/pages/index.jsp)
+- [Tidal](https://tidal.com/)
+- [YouTube Music](https://music.youtube.com/) / [YouTube Vanced](https://vanced.app/)
 
 
 ### Spotify Equalizer
