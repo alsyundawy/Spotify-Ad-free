@@ -51,6 +51,10 @@ In this repo I provide:
 - ~~[BlockTheSpot](https://github.com/master131/BlockTheSpot/) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner~~
 
 
+## Spotify Browser Extensions
+- [Lyrics With Spotify Web Player](https://github.com/mantou132/Spotify-Lyrics) - [Chrome](https://chrome.google.com/webstore/detail/spotify-lyrics/mkjfooclbdgjdclepjeepbmmjaclipod) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spotify-lyrics/)
+
+
 ## Android
 - [abertschi/ad-free](http://adfree.abertschi.ch) - A modularized Ad Blocker for Spotify on Android.
 
