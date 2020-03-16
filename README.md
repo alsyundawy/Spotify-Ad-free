@@ -79,7 +79,7 @@ In this repo I provide:
 - [Spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client.
 - [Spotify Downloader Utility](https://github.com/SwapnilSoni1999/spotify-dl) - Download playlist and songs from Spotify URL.
 - [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with album art and meta-tags.
-- ~~[XSpotify](https://github.com/meik97/XSpotify)~~ ([Archive](https://archive.org/details/github.com-meik97-XSpotify_-_2020-01-26_19-58-27)) - A modified Spotify client with DRM bypass (_160 kb/s, 32-bit, 44100 Hz, .ogg format_)
+- [XSpotify](https://github.com/r0xsh/XSpotify)  - A modified Spotify client with DRM bypass (_160 kb/s, 32-bit, 44100 Hz, .ogg format_)
 
 
 ### Criticism of Spotify
