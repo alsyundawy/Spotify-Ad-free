@@ -25,10 +25,10 @@ Spotify Main Servers
 0.0.0.0 ns1.p23.dynect.net
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gew1-accesspoint-b-zzfg.ap.spotify.com
-0.0.0.0
 Google (Partner)
 0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 redirector.gvt1.com
+
 Spotify (Download - language specific)
 ===========================
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
@@ -190,6 +190,7 @@ Steam Connection
 Microsoft Account Login
 0.0.0.0 login.live.com
 0.0.0.0 Spotify server (akamai technologies)
+
 ==========================
 0.0.0.0 play.spotify.edgekey.net
 Spotify servers (amazon cloudfront)
@@ -216,6 +217,7 @@ Spotify servers (sendgrid)
 0.0.0.0 wl.support.spotify.com
 Spotify servers (steadfast networks)
 0.0.0.0 o11.em.spotify.com
+
 Spotify Internal Music Network
 ===================
 0.0.0.0 aci.scdn.co
@@ -369,6 +371,7 @@ Spotify servers (google cloud, does the routing, geo dependent)
 0.0.0.0 yearinmusic.spotify.com
 0.0.0.0 heads4-ak.spotify.com.edgesuite.net
 Spotify servers (spotify geo audio streaming using airport codes, iata 3-letter codes)
+
 ================================
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
 0.0.0.0 audio-sp-ams.spotify.com
@@ -399,6 +402,7 @@ Spotify servers (spotify geo audio streaming using airport codes, iata 3-letter 
 0.0.0.0 audio-sp-sjcb.spotify.com
 0.0.0.0 audio-sp-tyo.spotify.com
 0.0.0.0 audio-sp.spotify.com
+
 Playlist
 ====
 0.0.0.0 lineup-images.scdn.co
@@ -410,6 +414,7 @@ Charts
 0.0.0.0 ns2.fastly.net
 0.0.0.0 ns3.fastly.net
 0.0.0.0 ns4.fastly.net
+
 Images
 =====
 0.0.0.0 dailymix-images.scdn.co
@@ -423,3 +428,7 @@ Images
 0.0.0.0 weblb-wg.gslb.spotify.com
 Payment
 0.0.0.0 live.adyen.com
+
+External services
+=====
+widget.intercom.io
