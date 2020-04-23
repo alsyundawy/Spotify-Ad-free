@@ -13,6 +13,34 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 
+## Table of Contents
+* [Table of Contents](#table-of-contents)
+  * [How to Debug problems?](#how-to-debug-problems)
+  * [Spotify (app) privacy](#spotify-app-privacy)
+  * [Release & RePack information](#release--repack-information)
+* [Spotify Recorder](#spotify-recorder)
+* [Spotify Backup Projects](#spotify-backup-projects)
+* [Spotify Windows Ad-Blocker Projects](#spotify-windows-ad-blocker-projects)
+* [Spotify Browser Extensions](#spotify-browser-extensions)
+* [Android](#android)
+* [MacOS](#macos)
+  * [Ad-Block Browser extension (for Spotify Web)](#ad-block-browser-extension-for-spotify-web)
+  * [Spotify Review of the year](#spotify-review-of-the-year)
+  * [Spotify Downloader (CLI)](#spotify-downloader-cli)
+  * [Criticism of Spotify](#criticism-of-spotify)
+  * [Analyze Spotify GDPR data streams](#analyze-spotify-gdpr-data-streams)
+  * [Spotify Service Alternatives](#spotify-service-alternatives)
+  * [Spotify Equalizer](#spotify-equalizer)
+  * [Reference](#reference)
+  * [Reversing Spotify](#reversing-spotify)
+
+
+### How to Debug problems?
+
+Spotify comes with a hidden debug console. You can start Spotify via `spotify --show-console` command line parameter in order to start/reveal the console window.
+
+
+
 ### Spotify (app) privacy
 
 You can easily import the "blocker" (filters) list into any Ad-blocker or download the pre-made Ad-Free versions. A HOSTS file is not a "crack" and not something you get banned for while using it.
