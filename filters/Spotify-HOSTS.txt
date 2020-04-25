@@ -4,8 +4,8 @@
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 # Expires: 14d
-# TimeUpdated: 2019-04-23
-# Version: 0.0.7.0
+# TimeUpdated: 2019-04-25
+# Version: 0.0.7.2
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 - present by CHEF-KOCH
@@ -682,8 +682,6 @@
 0.0.0.0 agnes.ap.spotify.com
 0.0.0.0 ahava.ap.spotify.com
 0.0.0.0 aio.lp.mydas.mobi
-#0.0.0.0 akamaihd.net
-#0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alpha4.test02.edgecastcdn.net
 0.0.0.0 alpha6.test02.edgecastcdn.net
@@ -1307,8 +1305,6 @@
 0.0.0.0 clk2.vip.sc9.admob.com
 0.0.0.0 clk3.vip.sc9.admob.com
 0.0.0.0 cloud.wac.6a25.edgecastcdn.net
-0.0.0.0 cloudera.qlik.com
-0.0.0.0 cloudfront.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 coalmine.edgecastcdn.net
 0.0.0.0 coconuts.boy.jp
@@ -3557,9 +3553,6 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 sf.vserv.mobi
 0.0.0.0 sgwww.spotify.com
-0.0.0.0 shavar.developer-services.mozilla.com
-0.0.0.0 shavar.services.mozilla.com
-0.0.0.0 show.buzzcity.net
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 showads1000.pubmatic.com
 0.0.0.0 showads33000.pubmatic.com
@@ -3911,8 +3904,6 @@
 0.0.0.0 wms.1aa1.edgecastcdn.net
 0.0.0.0 wms.2886.edgecastcdn.net
 0.0.0.0 wms.3ba6.edgecastcdn.net
-0.0.0.0 wms.edgecastcdn.net
-0.0.0.0 woody.intercom.io
 0.0.0.0 wpc.0001.edgecastcdn.net
 0.0.0.0 wpc.0002.edgecastcdn.net
 0.0.0.0 wpc.0003.edgecastcdn.net
