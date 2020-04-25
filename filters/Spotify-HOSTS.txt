@@ -21,22 +21,22 @@
 # OFFLINE Notice
 # Please wait, if you get the offline message minimize Spotify and WAIT!
 # ---------- Anti-Adblock Injection Test ----------
-#0.0.0.0 gew1-accesspoint-b-zzfg.ap.spotify.com
-#0.0.0.0 dns2.p07.nsone.net
-#0.0.0.0 dns3.p07.nsone.net
-#0.0.0.0 ns1.p23.dynect.net
-#0.0.0.0 ns3.p23.dynect.net
-#0.0.0.0 ns4.p23.dynect.net
-#0.0.0.0 dns1.p07.nsone.net
-#0.0.0.0 ns2.p23.dynect.net
-#0.0.0.0 dns4.p07.nsone.net
 #0.0.0.0 104.199.65.11
 #0.0.0.0 audio-sp-fra2.pscdn.co
 #0.0.0.0 dna-audio-sp-fra2.pscdn.co
+#0.0.0.0 dns1.p07.nsone.net
+#0.0.0.0 dns2.p07.nsone.net
+#0.0.0.0 dns3.p07.nsone.net
+#0.0.0.0 dns4.p07.nsone.net
+#0.0.0.0 gew1-accesspoint-b-zzfg.ap.spotify.com
+#0.0.0.0 ns1.p23.dynect.net
+#0.0.0.0 ns2.p23.dynect.net
+#0.0.0.0 ns3.p23.dynect.net
+#0.0.0.0 ns4.p23.dynect.net
 0.0.0.0 ap.spotify.com
 # ---------- Location sharing ----------
-0.0.0.0 datasharing.spotify.com
 0.0.0.0 beta.datasharing.spotify.com
+0.0.0.0 datasharing.spotify.com
 # ---------- Stop timer (triggers 5 seconds stop timer) ----------
 # 0.0.0.0 spclient.wg.spotify.com
 # ---------- Spotify Video & Audio related Ads + Partner Ads + Pixel Tracking ----------
@@ -682,8 +682,8 @@
 0.0.0.0 agnes.ap.spotify.com
 0.0.0.0 ahava.ap.spotify.com
 0.0.0.0 aio.lp.mydas.mobi
-0.0.0.0 akamaihd.net
-0.0.0.0 aksb-a.akamaihd.net
+#0.0.0.0 akamaihd.net
+#0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alpha4.test02.edgecastcdn.net
 0.0.0.0 alpha6.test02.edgecastcdn.net
