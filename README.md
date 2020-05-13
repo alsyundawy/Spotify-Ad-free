@@ -76,7 +76,7 @@ In this repo I provide:
 
 
 ## Spotify Windows Ad-Blocker Projects
-- ~~[BlockTheSpot](https://github.com/master131/BlockTheSpot/) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner~~
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot/releases) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner
 
 
 ## Spotify Browser Extensions
