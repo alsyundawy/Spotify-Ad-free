@@ -4,11 +4,11 @@
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 ! Expires: 14d
-! Version: 0.0.2.8
-! Last updated: 2019-11-14
+! Version: 0.0.2.9
+! Last updated: 2020-05-30
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
-! Copyright (C) 2018 - 2019 by CHEF-KOCH
+! Copyright (C) 2018 - present by CHEF-KOCH
 ! --- Lyrics ---
 ! https://github.com/fr31/spotifylyrics
 !
@@ -847,3 +847,4 @@
 ||audio-fa.scdn.co/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
 @@||spclient.wg.spotify.com/connect-api/v2/from/*$xmlhttprequest,domain=open.spotify.com
 @@||spclient.wg.spotify.com/connect-api$xmlhttprequest,domain=open.spotify.com
+@@||guc-spclient.spotify.com
