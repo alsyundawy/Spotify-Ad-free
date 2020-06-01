@@ -4,8 +4,8 @@
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 ! Expires: 14d
-! Version: 0.0.2.9
-! Last updated: 2020-05-30
+! Version: 0.0.3.0
+! Last updated: 2020-06-02
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 - present by CHEF-KOCH
@@ -256,7 +256,6 @@
 ||ads.bizhut.com^
 ||ads.flurry.com^
 ||ads.pubmatic.com^
-||adserver-as.adtech.advertising.com^
 ||adserver.adtechus.com^
 ||adservice.google.com^
 ||adsgtm-dev.spotify.com^
@@ -595,7 +594,7 @@
 ||mm1.vip.sc9.admob.com^
 ||mm104.sc9.admob.com^
 ||mmv.admob.com^
-||moat.pxl.ace.advertising.com^
+||advertising.com^
 ||moatads.com.edgekey.net^
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
