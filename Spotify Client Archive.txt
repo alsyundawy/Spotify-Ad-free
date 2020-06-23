@@ -1,3 +1,5 @@
+Spotify blocked direct links now.
+
 spotify_installer-1.1.26.501.gbe11e53b.exe - http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.26.501.gbe11e53b.exe
 spotify_installer-1.1.25.559.g85cf5e4c.exe - http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.25.559.g85cf5e4c.exe
 spotify_installer-1.1.19.480.g7d17e3ce.exe - http://upgrade.spotify.com/upgrade/client/win32-x86/spotify_installer-1.1.19.480.g7d17e3ce-49.exe
