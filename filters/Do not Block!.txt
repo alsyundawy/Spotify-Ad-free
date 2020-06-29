@@ -36,6 +36,7 @@ Google (Partner)
 Spotify (Download - language specific)
 ===========================
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
+0.0.0.0 audio-sp-*.spotifycdn.net
 
 
 Twitter images
@@ -162,6 +163,7 @@ Spotify (internal) data servers and data servers
 0.0.0.0 tathra.ash.spotify.com
 0.0.0.0 tathra.ash1.spotify.com
 
+
 Spotify Official public network structure - Spotify servers (API)
 ===========================
 0.0.0.0 adlab.spotify.com
@@ -241,7 +243,7 @@ Spotify Facebook Connection
 0.0.0.0 graph.facebook.com
 0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 scontent.xx.fbcdn.net
-
+0.0.0.0 scontent*.fbcdn.net
 
 Steam Connection
 ===========================
@@ -305,6 +307,7 @@ Spotify Internal Music Network
 0.0.0.0 actman.scdn.co
 0.0.0.0 artistheader.scdn.co
 0.0.0.0 audio-fa.scdn.co
+0.0.0.0 audio4-fa.scdn.co
 0.0.0.0 audio-fa.spotify.com
 0.0.0.0 audio-fab.spotify.com
 0.0.0.0 audio-fac.spotify.com
@@ -368,7 +371,7 @@ Spotify servers (google cloud, does the routing, geo dependent)
 0.0.0.0 beta.spotify.com
 0.0.0.0 blog.spotify.com
 0.0.0.0 bloodhound.spotify.com
-0.0.0.0 dealer.spotify.com (triggered by Discord and other apps)
+0.0.0.0 dealer.spotify.com
 0.0.0.0 demo-builder.spotify.com
 0.0.0.0 desktop.spotify.com
 0.0.0.0 embed.spotify.com
@@ -429,8 +432,10 @@ Spotify servers (google cloud, does the routing, geo dependent)
 0.0.0.0 podcasters.spotify.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 play.spotify.com
+0.0.0.0 *.ap.spotify.com
 0.0.0.0 player.spotify.com
 0.0.0.0 repository-origin.spotify.com
+0.0.0.0 ap.spotify.com
 0.0.0.0 sap.spotify.com
 0.0.0.0 sap-testing.spotify.com
 0.0.0.0 shrt.spotify.com
@@ -443,8 +448,10 @@ Spotify servers (google cloud, does the routing, geo dependent)
 0.0.0.0 support.spotify.com
 0.0.0.0 surveys.spotify.com
 0.0.0.0 timecapsule.spotify.com
+0.0.0.0 dcs*.megaphone.fm
 0.0.0.0 wave.spotify.com
 0.0.0.0 weblb-wg.dual-gslb.spotify.com
+0.0.0.0 login*.spotify.com
 0.0.0.0 webplayersupport.spotify.com
 0.0.0.0 wg.spotify.com  #Block on Desktop Client only
 0.0.0.0 ws-partner.spotify.com
@@ -454,11 +461,25 @@ Spotify servers (google cloud, does the routing, geo dependent)
 0.0.0.0 www.spotify.com
 0.0.0.0 yearinmusic.spotify.com
 0.0.0.0 heads4-ak.spotify.com.edgesuite.net
+0.0.0.0 content.production.cdn.art19.com
+0.0.0.0 heads4-ak-spotify-com.akamaized.net
+
+
+Podcast
+================================
+0.0.0.0 rss.art19.com
+0.0.0.0 www.podtrac.com
+0.0.0.0 hwcdn.libsyn.com
+0.0.0.0 traffic.libsyn.com
+0.0.0.0 audio.simplecast.com
+0.0.0.0 media.simplecast.com
+0.0.0.0 traffic.megaphone.fm
 
 
 Spotify servers (spotify geo audio streaming using airport codes, iata 3-letter codes)
 ================================
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
+0.0.0.0 audio-sp-*.pscdn.co
 0.0.0.0 audio-sp-ams.spotify.com
 0.0.0.0 audio-sp-ams2.spotify.com
 0.0.0.0 audio-sp-atl.spotify.com
@@ -487,13 +508,14 @@ Spotify servers (spotify geo audio streaming using airport codes, iata 3-letter 
 0.0.0.0 audio-sp-tyo.spotify.com
 0.0.0.0 audio-sp.spotify.com
 0.0.0.0 geo3.ggpht.com
+0.0.0.0 heads-fa.scdn.co
 
 
 Playlist
 ===========================
 0.0.0.0 lineup-images.scdn.co
-0.0.0.0 mosaic.scdn.co #playlist images
-0.0.0.0 thisis-images.scdn.co #playlist images
+0.0.0.0 mosaic.scdn.co
+0.0.0.0 thisis-images.scdn.co
 
 
 Charts
