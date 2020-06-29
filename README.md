@@ -156,13 +156,17 @@ In this repo I provide:
 - Spotify seems to work on an integrated Equalizer (for the Web Player) | [Source](https://twitter.com/wongmjane/status/1226825288119537664?ref_src=twsrc%5Etfw)
 
 
+### Spotify Video
+- Spotify prepares video integration | [Source](https://twitter.com/wongmjane/status/1274452040358346752)
+
+
 ### Reference
 - [Spotify Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/#s9)
 - [How Good Is Spotify's Audio Quality?](https://www.xaprb.com/blog/spotify-audio-quality/)
 - [Spotify API documentation](https://developer.spotify.com/documentation/web-api/)
 
 
-### Reversing Spotify
+### Reversing Spotify Client
 - [Reversing the MacOS Spotify Client](https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d)
 - [Spotify vs OllyDbg](http://www.steike.com/code/spotify-vs-ollydbg/)
 - [Breaking Spotify DRM with PANDA](http://moyix.blogspot.com/2014/07/breaking-spotify-drm-with-panda.html)
