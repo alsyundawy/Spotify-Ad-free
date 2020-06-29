@@ -9,7 +9,6 @@ The project is unofficial and not in any relationship with [Spotify AB](https://
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Spotify-Ad-free.svg)](http://hits.dwyl.io/CHEF-KOCH/Spotify-Ad-free)
 [![GitHub release](https://img.shields.io/github/release/CHEF-KOCH/Spotify-Ad-free.svg?label=Latest%20Release&style=popout)](https://github.com/CHEF-KOCH/Spotify-Ad-free/releases/latest)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 
@@ -85,6 +84,10 @@ In this repo I provide:
 
 ## Android
 - [abertschi/ad-free](http://adfree.abertschi.ch) - A modularized Ad Blocker for Spotify on Android.
+
+
+## Linux
+- [spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux/)
 
 
 ## MacOS
