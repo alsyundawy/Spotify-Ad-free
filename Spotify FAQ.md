@@ -95,6 +95,8 @@ The SPotify mobile apps requiring that you share your location, this is an priva
 ### Anti-debugger protection in Spotify 
 * [Spotify vs OllyDbg (2009) (web.archive.org)](https://web.archive.org/web/20130417061130/http://www.steike.com/code/spotify-vs-ollydbg/) 
 
+
 ### [BlockTheSpot](https://github.com/mrpond/BlockTheSpot/commits/master)
 Since Spotify 1.14+ the [".dll"-trick does not work anymore](https://github.com/master131/BlockTheSpot/issues/19), you have to downgrade to a lower Spotify version and prevent the update mechansim. Spotify will monitor such repos and add other protections in order to prevent such things, so at the end dowgrading is the best way to avoid getting ads. Please keep in mind that Spotify could force their users to use the latest clients, which then would mean that no such dll injection methods would work anymore (or break with another update). 
 
+The [fork](https://github.com/mrpond/BlockTheSpot/releases) works with the latest Spotify versions.
