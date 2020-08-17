@@ -11,7 +11,7 @@ A small FAQ and additional background info on certain things which are Spotify (
 * [Unofficial Linux Mint Link](http://packages.linuxmint.com/search.php?release=any&section=any&keyword=spotify)
 * [Official MacOS Link](https://download.scdn.co/Spotify.dmg)
 * [Official Linux Link](https://www.spotify.com/de/download/linux/)
-* [Microsoft Store Version] (UWP app)(https://www.spotify.com/us/download/other/)
+* [Microsoft Store Version (UWP app)](https://www.spotify.com/us/download/other/)
 * [Spotify Kids](https://www.spotify.com/ie/kids/)
 
 
