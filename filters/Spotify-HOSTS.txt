@@ -4,8 +4,8 @@
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList + https://github.com/CHEF-KOCH/Spotify-Ad-free/
 # Expires: 14d
-# TimeUpdated: 2020-08-17
-# Version: 0.0.7.6
+# TimeUpdated: 2020-08-24
+# Version: 0.0.7.7
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 - present by CHEF-KOCH
@@ -3600,6 +3600,19 @@
 0.0.0.0 tap1.vip.sc9.admob.com
 0.0.0.0 tcy.smartadserver.com
 0.0.0.0 techattend.com
+0.0.0.0 taobao.com
+0.0.0.0 taobao.net
+0.0.0.0 tbsandbox.com
+0.0.0.0 amap.com
+0.0.0.0 189.cn
+0.0.0.0 aliyuncs.com
+0.0.0.0 21cn.com
+0.0.0.0 www.r1---sn-buq-njal.c.2mdn.net
+0.0.0.0 www.r5---sn-buq-njal.c.2mdn.net
+0.0.0.0 s.2mdn.net
+0.0.0.0 twx.2mdn.net
+0.0.0.0 cmbchina.com
+0.0.0.0 ixigua.com
 0.0.0.0 teradata.qlik.com
 0.0.0.0 terraform-modules-test.intercom.io
 0.0.0.0 thinknear-hosted.thinknearhub.com
@@ -3623,7 +3636,6 @@
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 tribpubdfp745347008913.s.moatpixel.com
 0.0.0.0 tune.com
-0.0.0.0 twx.2mdn.net
 0.0.0.0 twx.doubleclick.net
 0.0.0.0 tx102.sc9.admob.com
 0.0.0.0 tx103.sc9.admob.com
@@ -3726,8 +3738,6 @@
 0.0.0.0 www.omaze.com
 0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.pflexads.com
-0.0.0.0 www.r1---sn-buq-njal.c.2mdn.net
-0.0.0.0 www.r5---sn-buq-njal.c.2mdn.net
 0.0.0.0 www.spotify-test-app.com
 0.0.0.0 www.spotify.facebook-ads.adtz.com
 0.0.0.0 www.spotify.pinterest.adtz.com
