@@ -976,7 +976,7 @@
 0.0.0.0 atti.velti.com
 0.0.0.0 au.youmi.net
 0.0.0.0 aud.pubmatic.com
-0.0.0.0 audio-ak-spotify-com.akamaized.net
+# 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-ak.spotify.com.edgesuite.net
 0.0.0.0 audio-ak.spotify.com.eip.akadns.net
@@ -2026,7 +2026,7 @@
 0.0.0.0 heads-fab.spotify.com
 0.0.0.0 heads-fac.spotify.com
 0.0.0.0 heads-l3.spotify.com
-0.0.0.0 heads4-ak-spotify-com.akamaized.net
+#0.0.0.0 heads4-ak-spotify-com.akamaized.net
 0.0.0.0 heads4-akp.spotify.com.edgesuite.net
 0.0.0.0 heather.ap.spotify.com
 0.0.0.0 hhbekxxw5d9e.pflexads.com
@@ -2798,6 +2798,7 @@
 0.0.0.0 promo-001.lon.spotify.com
 0.0.0.0 promo.spotify.com
 0.0.0.0 pschedlb01.lga02.nsone.net
+#0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
 0.0.0.0 pt.admob.com
 0.0.0.0 pub-net-srx-int-testing.spotify.com
 0.0.0.0 pubads.g.doubleclick.net
