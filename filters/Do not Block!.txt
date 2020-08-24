@@ -25,6 +25,12 @@ Spotify Main Servers
 0.0.0.0 sto3-outbound-a1.sto3.spotify.com
 0.0.0.0 sto3-outbound-a3.sto3.spotify.com
 0.0.0.0 sto3-ssoproxy-a1.sto3.spotify.net
+0.0.0.0 scdnco.spotify.map.fastly.net
+
+
+Connection check
+===========================
+0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
 
 
 Google (Partner)
