@@ -1,0 +1,14 @@
+(\.|^)2mdn\.net$
+(\.|^)doubleclick\.net$
+(\.|^)fastclick\.net&
+(\.|^)google-analytics\.com$
+(\.|^)googleadservices\.com$
+(\.|^)googlesyndication\.com$
+(\.|^)moatads\.com$
+(\.|^)safeframe\.googlesyndication\.com$
+(\.|^)smaato\.net$
+(247realmedia\.com)$
+(startappnetwork\.com)$
+(startappservice\.com)$
+(statcounter\.com)$
+r[0-9]+---sn-.*\.googlevideo\.com$
